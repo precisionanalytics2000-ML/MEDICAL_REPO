@@ -1,0 +1,1 @@
+Forecast insurance premiums based on patient profiles, using Excel for linear trends and Python for regression trees.

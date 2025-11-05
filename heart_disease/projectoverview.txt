@@ -1,0 +1,1 @@
+Evaluate heart disease likelihood from patient attributes, using Excel for correlation analysis and Python for decision tree classification.

@@ -1,0 +1,1 @@
+Predict diabetes onset from lifestyle indicators, using Excel for feature selection and Python for SVM classification.
