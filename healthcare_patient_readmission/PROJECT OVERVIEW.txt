@@ -1,0 +1,3 @@
+Project Overview: Analyzing hospital patient data to predict readmission risks, using Excel for initial risk scoring and Python for logistic regression modeling. Teaches risk assessment in healthcare workflows.
+
+kaggle dataset link: https://www.kaggle.com/datasets/persivalakeem/healthcare-patient-readmission

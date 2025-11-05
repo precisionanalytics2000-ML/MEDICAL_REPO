@@ -1,0 +1,3 @@
+Track vaccination rates over time, using Excel for geographic summaries and Python for trend lines and maps (basic choropleth). Emphasizes time-series handling and visualization.
+
+kaggle dataset link: https://www.kaggle.com/datasets/persivalakeem/covid-19-vaccination-progress
